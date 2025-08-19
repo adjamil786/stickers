@@ -3,35 +3,15 @@
     "identifier": "pack1",
     "name": "Funny Memes",
     "publisher": "Pop Studios",
-    "tray_image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/pack1/tray.png",
+    "tray_image": "https://raw.githubusercontent.com/adjamil786/stickers/refs/heads/main/tray.png",
     "stickers": [
       {
-        "image_file": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/pack1/sticker1.webp",
+        "image_file": "https://raw.githubusercontent.com/adjamil786/stickers/refs/heads/main/Sticker1.webp",
         "emojis": ["😂", "🤣"]
       },
       {
-        "image_file": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/pack1/sticker2.webp",
+        "image_file": "https://raw.githubusercontent.com/adjamil786/stickers/refs/heads/main/Sticker2.webp",
         "emojis": ["😎"]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/pack1/sticker3.webp",
-        "emojis": ["🔥"]
-      }
-    ]
-  },
-  {
-    "identifier": "pack2",
-    "name": "Text Stickers",
-    "publisher": "Pop Studios",
-    "tray_image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/pack2/tray.png",
-    "stickers": [
-      {
-        "image_file": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/pack2/hello.webp",
-        "emojis": ["👋"]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/pack2/bye.webp",
-        "emojis": ["👋😢"]
       }
     ]
   }
